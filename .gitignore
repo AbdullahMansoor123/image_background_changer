@@ -5,3 +5,4 @@ misc/*
 output.png
 gradio_app.py
 notebook.ipynb
+artifacts/
