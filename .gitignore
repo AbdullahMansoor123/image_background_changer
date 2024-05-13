@@ -1,8 +1,10 @@
 .pt
-misc/*
-.idea/*
-.vscode/*
+misc/
+.idea/
+.vscode/
 output.png
 gradio_app.py
-notebook.ipynb
+notebooks/
 artifacts/
+logs/
+__pycache__/
