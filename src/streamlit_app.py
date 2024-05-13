@@ -1,11 +1,11 @@
 import os,sys
 from logging import Logger
-from src.exception import CustomException
+from exception import CustomException
 from PIL import Image
 import glob
 import numpy as np
 import streamlit as st
-from utils.utils import process_images
+from utils.utils_main import process_images
 
 
 def app():

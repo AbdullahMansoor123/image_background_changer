@@ -7,8 +7,6 @@ import numpy as np
 
 
 
-
-
 def resize_to_match(img_to_resize, reference_image):
     """
     Resize image_to_resize to match the size of reference_image
