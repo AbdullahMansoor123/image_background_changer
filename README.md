@@ -1,24 +1,24 @@
 Here's a README.md file for your code:
 
-```markdown
+
 # Background Changing App
 
 This is a Streamlit web application for changing the background of an image. It allows users to upload an image containing a person, select a background from predefined options, and then removes the person from the foreground image and blends it with the selected background.
 
 ## Setup
-
 To run this application locally, follow these steps:
+
 
 1. Clone this repository:
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/AbdullahMansoor123/image_background_changer
 ```
 
 2. Navigate to the cloned directory:
 
 ```bash
-cd <repository_directory>
+cd image_background_changer
 ```
 
 3. Install the required dependencies:
@@ -62,7 +62,6 @@ Once the application starts, follow these steps:
 
 [License](LICENSE)
 
-```
 
-Feel free to customize it further according to your needs!
-Streamlit App link --> https://imagebackgroundchanger-wcwrrvh4ypexl4jtzd5gni.streamlit.app/
+## Streamlit App
+**Click here to check my -->[Streamlit App](https://imagebackgroundchanger-wcwrrvh4ypexl4jtzd5gni.streamlit.app/)**
