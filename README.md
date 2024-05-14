@@ -3,7 +3,7 @@ Here's a README.md file for your code:
 
 # Background Changing App
 
-This is a Streamlit web application for changing the background of an image. It allows users to upload an image containing a person, select a background from predefined options, and then removes the person from the foreground image and blends it with the selected background.
+I always wanted to change the background of my picture without uploading them online so i tried writing a code to that for me. This is a Streamlit web application for changing the background of an person image. It allows users to upload an image containing a person, select a background from predefined options, and then removes the person from the foreground image and blends it with the selected background.
 
 ## Setup
 To run this application locally, follow these steps:
